@@ -20,7 +20,6 @@ color:aliceblue
 display: flex;
 
     background: black;
-    background: ;
     color: blueviolet;
     align-items: center;
     justify-content: space-around;
@@ -33,7 +32,7 @@ display: flex;
 width: 34%  ;
 }
 
-.lista-item{O futebol é o esporte mais popular do mundo e suas origens remontam há 5 mil anos na China. O futebol moderno surgiu na Inglaterra durante o século XIX. O futebol é considerado o esporte coletivo mais popular do mundo. O futebol é o esporte coletivo mais popular do planeta.
+.lista-item{
 
     display: inline-block;
 
@@ -44,7 +43,7 @@ width: 34%  ;
 }
 .secao1{
 
-    background: red);
+    background: red;
     background:linear-gradient(blak);
     display: flex;
 
