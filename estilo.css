@@ -46,7 +46,7 @@ width: 34%  ;
     background: red;
     background:linear-gradient(blak);
     display: flex;
-
+}
 
 .secao2-titulo{
    font-size: 20px;
@@ -56,9 +56,6 @@ width: 34%  ;
 .secao2-todos-tripulantes{
        display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-
-
-
 
 }
 
