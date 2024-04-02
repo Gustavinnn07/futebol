@@ -48,4 +48,22 @@ width: 34%  ;
     display: flex;
 
 
+.secao2-titulo{
+   font-size: 20px;
+
 }
+
+.secao2-todos-tripulantes{
+       display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+
+ .secao2-todos-tripulantes img{
+    
+ }
+
+
+
+
+}
+
+
