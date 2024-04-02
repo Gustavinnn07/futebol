@@ -46,6 +46,8 @@ width: 34%  ;
     background: #041044;
     background:linear-gradient(blak);
     display: flex;
+    padding: 100px;
+    font-size: 24px;
 }
 
 .secao2-titulo{
